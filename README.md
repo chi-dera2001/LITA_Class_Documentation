@@ -11,6 +11,7 @@
  Data Cleaning and Preparations
 
  [Data Analysis](#Data-Analysis)
+ 
 ### Project Overview
 ---
 This Data Analysisn project aims to generate insight into the sales performance of the E Commerce project over the past year. By analyzing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
